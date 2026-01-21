@@ -33,11 +33,7 @@ Machine-Learning/
 ├── helper.py            # Helper functions and model persistence
 ├── model_data.json      # Saved trained model weights
 ├── README.md            # This file
-└── data/                # MNIST dataset
-    ├── train-images-idx3-ubyte
-    ├── train-labels-idx1-ubyte
-    ├── t10k-images-idx3-ubyte
-    └── t10k-labels-idx1-ubyte
+└── data/                # EMNIST dataset
 ```
 
 ## Requirements
